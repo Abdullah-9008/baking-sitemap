@@ -4,5 +4,5 @@
   <url>
     <loc>https://bakingprofessionally.blogspot.com/</loc>
   </url>
-
+https://bakingprofessionally.blogspot.com/
 </urlset>
